@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yadavdhiru201@gmail.com**
 
-- 📄 Know about my experiences [dhirajyadav.com.np/about](dhirajyadav.com.np/about)
+- 📄 Know about my experiences [dhirajyadav.com.np/about](https://dhirajyadav.com.np/#about)
 
 - ⚡ Fun fact **I am funny😅**
 
