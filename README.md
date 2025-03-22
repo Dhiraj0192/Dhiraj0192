@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj0192&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj0192" /> </p>
 
-- 👨‍💻 All of my projects are available at [dhirajyadav.com.np](dhirajyadav.com.np)
+- 👨‍💻 All of my projects are available at [dhirajyadav.com.np](https://www.dhirajyadav.com.np/)
 
 - 💬 Ask me about **Core_PHP, Laravel and React**
 
